@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I started learning programming more than a year ago.
+
+I love learning and programming.
 Currently my stack is: Python, Django, Docker, Celery, Redis, Git, Django rest framework, Selenium, Beautifulsoup, SQL, Postgresql.
 
 # Here are a projects I have worked on:
